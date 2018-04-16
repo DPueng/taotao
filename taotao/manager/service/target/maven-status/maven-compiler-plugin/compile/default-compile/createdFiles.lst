@@ -1,0 +1,9 @@
+dp/taotao/App.class
+dp/taotao/service/PictureService.class
+dp/taotao/service/ItemCatService.class
+dp/taotao/service/PictureServiceImp.class
+dp/taotao/service/ItemParamServiceImp.class
+dp/taotao/service/ItemServiceImp.class
+dp/taotao/service/ItemCatServiceImp.class
+dp/taotao/service/ItemParamService.class
+dp/taotao/service/ItemService.class
